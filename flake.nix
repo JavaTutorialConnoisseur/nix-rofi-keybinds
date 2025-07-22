@@ -1,8 +1,6 @@
 {
   description = "Nix (rofi) custom hyprland keybind previewer";
 
-  # TODO: 1. move this into github
-
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
   };
